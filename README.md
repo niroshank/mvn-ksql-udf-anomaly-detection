@@ -1,0 +1,1 @@
+# mvn-ksql-udf-anomaly-detection
